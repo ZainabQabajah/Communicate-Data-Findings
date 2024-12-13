@@ -1,1 +1,1 @@
-# Communicate-Data-Findings
+# CPU-Scheduling-Algorithms-Simulator
